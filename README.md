@@ -29,7 +29,7 @@ OpenNTofu is a project that utilizes [OpenTofu](https://opentofu.org/) for provi
 ## Usage
 1. Download the git repo: 
 ```sh 
-git clone https://github.com/frenzywall/Web-app.v1-Devops-.git 
+git clone https://github.com/frenzywall/Web-app.v1-Devops.git 
 
 cd Web-app.v1-Devops-.git
 ```
