@@ -64,6 +64,8 @@ chmod 400 Web-Devops-new.pem #Sets .pem to read only to this user
 
 ssh -i Web-Devops-new.pem ec2-user@{replace with public ip address}
 ```
+![alt text](Misc/2.png)
+
 ### Connect using vscode-Remote server ssh
 1. Install Remote-server ssh extension, and connect using ssh command, for me it was 
 ```sh
@@ -80,6 +82,8 @@ chmod +x web-app.sh
 ./web-app.sh
 ```
 Success!
+
+![alt text](Misc/3.png)
 
 ## Example of profile: Using AWS CLI
 
