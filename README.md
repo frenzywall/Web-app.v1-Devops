@@ -20,6 +20,8 @@ aws configure set region "us-east-1"
 ```
 The configured file can be found in:
 
+![alt text](Misc/1.png)
+
 ```sh
 /home/{username}/.aws/credentials
 ```
