@@ -13,7 +13,7 @@ export JAVA_HOME=/usr/lib/jvm/java-1.8.0-amazon-corretto.x86_64
 export PATH=/usr/lib/jvm/java-1.8.0-amazon-corretto.x86_64/jre/bin/:$PATH
 
 mvn archetype:generate \
-   -DgroupId=com.nextwork.app \
+   -DgroupId=com.webapp.app \
    -DartifactId=web-project \
    -DarchetypeArtifactId=maven-archetype-webapp \
    -DinteractiveMode=false
