@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "{\"ip\": \"$(curl -s https://api.ipify.org)\"}"
+echo "{\"ip\": \"$(curl -s https://ipinfo.io/ip)\"}"
